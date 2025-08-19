@@ -1,0 +1,4 @@
+# ページをリダイレクト
+RewriteEngine on
+RewriteRule ^products/kobashitaste$ https://ec.tsuku2.jp/items/04875225203504-0001$[L,R=301]
+
